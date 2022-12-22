@@ -1,0 +1,17 @@
+********** What is Angular ? **********
+
+    Angular is a platform and framework for single page applications using HTML and Typescript.
+    It is newest form of AngularJS which is developed by Google.
+    Angular is open source framework which is used for building mobile and desktop web applications.
+    It contains features like Component, Directives, Data Sharing, Data Binding, Observable, Pipes, Forms, HTTPServices, Dependency Injection, Routing etc.
+     
+     
+********** Why Angular ? **********
+    Javascript is the most commonly used client-side scripting language. It is written into HTML documents to enable interactions with web pages in many unique ways.
+    As a relatively easy-to-learn language with permeating support, it is well-suited to develop modern applications. 
+    Angular and Javascript bring structure and consistency to Web Application Development.
+    It also provides scalability and maintainability to the user.
+    These days, we have a variety of frameworks and libraries designed to provide alternative solutions.
+    With respect to front-end web development, Angular addresses many, if not all, of the issues developers face when using JavaScript on its own.
+    
+    
